@@ -13,3 +13,10 @@ Este é um perfil usado como portifólio. Nem todos os projetos armazenados são
 - HTML5, CSS
 - PHP, Laravel, MySQL
 - Figma, Godot, Construct 2
+
+------
+## Um pouco sobre mim
+- 📝 Meu sonho é ser escritor e/ou desenvolvedor de jogos
+- 📕 Estou escrevendo minha própria trilogia de fantasia
+- 📺 Gosto de animes (meu favorito é Your Lie in April)
+- 🎨 Adoro desenhar (normalmente pelo Figma)
