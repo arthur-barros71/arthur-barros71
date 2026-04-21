@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**arthur-barros71/arthur-barros71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arthur, eu sou um desenvolvedor web brasileiro.
 
-Here are some ideas to get you started:
+Minha área de conforto costuma ser frontend - HTML5 e CSS - porém eu também possuo experiência com projetos focados em backend, com Laravel e banco de dados MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além disso, também costumo usar Figma para design e ilustração, e possuo experiência com desenvolvimento de jogos em Godot e Construct.
+
+Este é um perfil usado como portifólio. Nem todos os projetos armazenados são de autoria individual, porém são todos originais e nos quais eu trabalhei.
+
+------
+# Ferramentas e tecnologias
+- HTML5, CSS, Angular
+- PHP, Laravel, MySQL
+- Figma, Godot, Construct 2
