@@ -9,7 +9,7 @@ Além disso, também costumo usar Figma para design e ilustração, e possuo exp
 Este é um perfil usado como portifólio. Nem todos os projetos armazenados são de autoria individual, porém são todos originais e nos quais eu trabalhei.
 
 ------
-# Ferramentas e tecnologias
+## Ferramentas e tecnologias
 - HTML5, CSS, Angular
 - PHP, Laravel, MySQL
 - Figma, Godot, Construct 2
