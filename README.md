@@ -10,6 +10,6 @@ Este é um perfil usado como portifólio. Nem todos os projetos armazenados são
 
 ------
 ## Ferramentas e tecnologias
-- HTML5, CSS, Angular
+- HTML5, CSS
 - PHP, Laravel, MySQL
 - Figma, Godot, Construct 2
